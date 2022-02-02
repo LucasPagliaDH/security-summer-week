@@ -1,0 +1,9 @@
+/Users/work/Downloads/ApiFilmes Security/src/main/java/com/digitalhouse/ApiFilmes/model/Usuario.java
+/Users/work/Downloads/ApiFilmes Security/src/main/java/com/digitalhouse/ApiFilmes/service/FilmeService.java
+/Users/work/Downloads/ApiFilmes Security/src/main/java/com/digitalhouse/ApiFilmes/config/SpringSecurityConfig.java
+/Users/work/Downloads/ApiFilmes Security/src/main/java/com/digitalhouse/ApiFilmes/ApiFilmesApplication.java
+/Users/work/Downloads/ApiFilmes Security/src/main/java/com/digitalhouse/ApiFilmes/model/Filme.java
+/Users/work/Downloads/ApiFilmes Security/src/main/java/com/digitalhouse/ApiFilmes/repository/FilmeRepository.java
+/Users/work/Downloads/ApiFilmes Security/src/main/java/com/digitalhouse/ApiFilmes/service/UserDetailsServiceImpl.java
+/Users/work/Downloads/ApiFilmes Security/src/main/java/com/digitalhouse/ApiFilmes/controller/FilmeController.java
+/Users/work/Downloads/ApiFilmes Security/src/main/java/com/digitalhouse/ApiFilmes/repository/UsuarioRepository.java

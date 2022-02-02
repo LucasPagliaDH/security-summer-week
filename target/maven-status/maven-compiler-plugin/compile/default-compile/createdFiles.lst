@@ -1,0 +1,9 @@
+com/digitalhouse/ApiFilmes/controller/FilmeController.class
+com/digitalhouse/ApiFilmes/repository/UsuarioRepository.class
+com/digitalhouse/ApiFilmes/service/FilmeService.class
+com/digitalhouse/ApiFilmes/repository/FilmeRepository.class
+com/digitalhouse/ApiFilmes/model/Usuario.class
+com/digitalhouse/ApiFilmes/config/SpringSecurityConfig.class
+com/digitalhouse/ApiFilmes/model/Filme.class
+com/digitalhouse/ApiFilmes/service/UserDetailsServiceImpl.class
+com/digitalhouse/ApiFilmes/ApiFilmesApplication.class
